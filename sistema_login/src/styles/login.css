@@ -1,0 +1,11 @@
+@charset "UTF-8";
+@import './variables.css';
+
+.ic_robot {
+    width: 64px;
+    height: 64px;
+}
+
+.nm_chatbot{
+    color: var(--cor-primaria);
+}
